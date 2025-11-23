@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=whoami+%3F;Layouse+%E2%9C%A8+Cyber+Peri;Full-Stack+Dream+Weaver;Terminal+Wizard;Digital+Phantom" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=whoami+%3F;Layouse;Cyberpunk+Frontend+Dev;System+Tinkerer;Glitch+Enthusiast" />
 </h1>
 
 <p align="center">
@@ -9,19 +9,19 @@
 ---
 
 ## 💚 **$ echo "Layouse"**
-Karanlık temalı kodların arasından geçip  
-yeşil neon ışıklarda dans eden **Cyber Peri** 🧚‍♂️💚  
-Sistemin gölgeleriyle anlaşmalı, glitch ruhlu bir terminal varlığı.
+Sistemin loş köşelerinde sessiz çalışan,  
+karanlık arayüzlerin içinde neon yeşille parlayan,  
+gerçeklikten kopuk bir **kod işçisi**, bir **terminal bağımlısı**.
 
-> “Kod büyü ise, ben de büyü yapanım.”
+> “Kodu anlamak kolay… beni anlamak zor.”
 
 ---
 
-## ⚡ **Dijital Varlığım**
-- 🌐 Frontend + Sistem takıntısı  
-- 🔥 Minimalizm + estetik + terminal vibe  
-- 🛠️ Arada bir C, C++, Arduino... yani eli lehim tutan peri  
-- 🌙 Gece çalışan, gündüz kaybolan process  
+## ⚡ **Profil Özeti**
+- 🌐 Frontend ağırlıklı, ama sistem tarafına da bulaşan  
+- 🧩 Minimal tasarım + hacker estetiği takıntılı  
+- 🔥 C / C++ / Arduino kökenli  
+- 🌑 Gece çalışan, gündüz debug modunda gezen  
 
 ---
 
@@ -32,13 +32,13 @@ Sistemin gölgeleriyle anlaşmalı, glitch ruhlu bir terminal varlığı.
 
 ---
 
-## 🧚‍♂️ **Cyber Fairy Terminal Banner**
+## 🟩 **Terminal Banner**
 ```perl
 #!/usr/bin/perl
 print "\e[92m";
-print "  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n";
-print "   ✦ Layouse — Digital Green Fairy\n";
-print "   ✦ Hacker Spirit / Terminal Soul\n";
-print "   ✦ Shadow Coder / Dream Weaver\n";
-print "  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n";
+print "  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n";
+print "     Layouse — Neon-Coded Identity\n";
+print "     Hacker Mindset // Dark Aesthetic\n";
+print "     System Explorer // Logic Driven\n";
+print "  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n";
 print "\e[0m";
