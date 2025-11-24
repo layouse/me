@@ -1,60 +1,66 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=333333&center=true&vCenter=true&lines=Layouse;Strategic+Developer+%26+System+Architect;High+Usability+Focus;C%2FC%2B%2B+Driven+Logic" alt="Layouse - Stratejik Geliştirici" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E2125&center=true&vCenter=true&lines=LAYOUSE;System+Integration+Expert;Architectural+Depth+%26+High+Performance;Excellence+in+Code+and+Design" style="filter: invert(1);" alt="Layouse - Mimarî Derinlik ve Yüksek Performans" />
 </div>
 
 <div align="center">
-    <h1>LAYOUSE</h1>
+    <hr style="border: 2px solid #282c34; width: 50%; margin: 20px auto;">
 </div>
 
 ---
 
-## 💎 STRATEJİK VİZYON & MİSYON
+## 🔮 STRATEJİK İMZA
 
-Sadece kod yazan değil, aynı zamanda sistemin bütününe hâkim, stratejik katmanlarda çalışan bir mühendislik yaklaşımını benimsiyorum. Teknik derinliği, kullanıcı deneyimi ve iş hedefleriyle kusursuzca entegre ederim.
+Ben **Layouse**. Teknolojinin mimarî derinliğinde uzmanlaşmış, sadece çalışan değil, aynı zamanda **ölçeklenebilir, estetik ve sürdürülebilir** sistemler inşa eden bir geliştiriciyim. Kodun her satırında, **yüksek işlevsellik** ve **minimalist zarafet** arıyorum.
 
-> “Mimariyi anlamadan çözüm üretmek, binayı temel atmadan inşa etmeye benzer. Temel, her zaman mantık ve sistem bütünlüğüdür.”
+> **STATEMENT:** "Teknolojinin gücü, karmaşıklığı basitlikle çözmekte yatar."
 
-### 📊 Temel Yetkinlikler
+### ✅ PROFİL ÖZETİ
 
-| Alan | Odak Noktası |
-| :--- | :--- |
-| **Ön Uç (Frontend)** | Yüksek performans, erişilebilirlik ve ölçeklenebilir arayüz mimarileri. |
-| **Sistem Düşüncesi** | Düşük seviyeli diller (C/C++) ile elde edilen güçlü mantık ve kaynak yönetimi. |
-| **Tasarım Felsefesi** | Minimalizm, netlik ve işlevselliği ön planda tutan yetişkin estetiği. |
-| **Çalışma Prensibi** | Sonuç odaklı, esnek ve zorlu teknik sorunlara çözüm getirmeye adanmış yapı. |
+| Kategori | Vurgu | Odak Noktası |
+| :--- | :--- | :--- |
+| 👑 **Uzmanlık** | Tam Yığın (Full-Stack) Mentörlüğü | Sistem Bütünlüğü ve Mimarî Tasarım |
+| 💡 **Felsefe** | Düşük Seviyeli Mantık (C/C++) | Yüksek Performans ve Kaynak Yönetimi |
+| 💼 **Çıktı** | Kullanıcı Odaklı Minimalizm | Kurumsal Seviye Kalite Kontrol (QC) |
+| 🌑 **Estetik** | Karanlık Tema & Temiz Çizgiler | Premium Arayüz Hissiyatı |
 
 ---
 
-## 🛠️ TEKNOLOJİ KATMANLARI
+## ⚙️ TEKNOLOJİ PORTFESİ
 
-Uzmanlık yelpazem, en hızlı Front-End çerçevelerinden, sistem çekirdeğine inen düşük seviyeli mantık dillerine kadar uzanır.
+Kullandığım araçlar, stratejik olarak performans ve uzun ömürlülük düşünülerek seçilmiştir.
 
-### I. WEB VE UYGULAMA MİMARİSİ
-Yüksek hızlı ve bakım kolaylığı sunan modern uygulamalar için tercih ettiğim ana araç seti.
+### 🌐 FRONT-END & İNTERFACE
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css" alt="Web ve Uygulama Geliştirme Teknolojileri" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Frontend Teknolojileri" />
 </p>
 
-### II. SİSTEM VE DERİN TEKNOLOJİLER
-Verimlilik ve donanım kontrolünün kritik olduğu projelerdeki temel dayanak.
+### 💻 BACK-END & SİSTEM MİMARİSİ
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,linux,mysql" alt="Sistem ve Düşük Seviyeli Teknolojiler" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,c,cpp,arduino,linux" alt="Backend ve Sistem Teknolojileri" />
 </p>
 
-### III. ALTYAPI VE DEPLOYMENT
-Uygulamaların hayata geçirildiği, yönetildiği ve ölçeklendiği bulut ve versiyon kontrol sistemleri.
+### ☁️ DEVOPS & BULUT
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp" alt="Altyapı, Bulut ve Versiyon Kontrolü" />
+    <img src="https://skillicons.dev/icons?i=git,aws,gcp" alt="DevOps ve Bulut Teknolojileri" />
 </p>
 
 ---
 
-## 📂 İLETİŞİM VE PORTFOLYO
+## 🔗 ERİŞİM VE DİJİTAL AYAK İZİ
 
-Profesyonel iletişimin ve erişilebilirliğin önemine inanıyorum. Aşağıdaki kanallar üzerinden bana ulaşabilir veya çalışmalarıma göz atabilirsiniz:
+Tüm profesyonel ve kişisel kanallarıma tek bir noktadan erişim sağlayın. Bağlantı kalkanları, **yüksek kaliteli, temiz ve kurumsal renklerde** seçilmiştir.
 
+### I. KURUMSAL BAĞLANTILAR
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bağlantısı" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta Bağlantısı" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profili" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Kişisel Portfolio" /></a>
+</p>
+
+### II. MEDYA VE KİŞİSEL KANALLAR
+<p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profili" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Kanalı" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profili" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Doğrudan E-posta" /></a>
 </p>
