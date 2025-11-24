@@ -36,7 +36,7 @@ Kullandığım araçlar, stratejik olarak performans ve uzun ömürlülük düş
 
 ### 💻 BACK-END & SİSTEM MİMARİSİ
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,c,cpp,arduino,linux" alt="Backend ve Sistem Teknolojileri" />
+    <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,arduino,linux" alt="Backend ve Sistem Teknolojileri" />
 </p>
 
 ### ☁️ DEVOPS & BULUT
