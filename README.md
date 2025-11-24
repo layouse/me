@@ -1,70 +1,60 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=whoami+%3F;Layouse;Cyberpunk+Frontend+Dev;System+Tinkerer;Glitch+Enthusiast" alt="Layouse - Animated Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=333333&center=true&vCenter=true&lines=Layouse;Strategic+Developer+%26+System+Architect;High+Usability+Focus;C%2FC%2B%2B+Driven+Logic" alt="Layouse - Stratejik Geliştirici" />
 </div>
 
-<p align="center">
-    <img src="https://media.tenor.com/7zN4h0PzV7EAAAAC/hacker-hack.gif" width="450" alt="Hacker Terminal GIF" />
-</p>
+<div align="center">
+    <h1>LAYOUSE</h1>
+</div>
 
 ---
 
-## ⚡ LAYOUSE: Neon-Coded Kimlik
+## 💎 STRATEJİK VİZYON & MİSYON
 
-> “Kodu anlamak kolay… beni anlamak zor.”
+Sadece kod yazan değil, aynı zamanda sistemin bütününe hâkim, stratejik katmanlarda çalışan bir mühendislik yaklaşımını benimsiyorum. Teknik derinliği, kullanıcı deneyimi ve iş hedefleriyle kusursuzca entegre ederim.
 
-Sistemin loş köşelerinde sessiz çalışan, karanlık arayüzlerin içinde **neon yeşille parlayan** bir **kod işçisi** ve **terminal bağımlısıyım**. Gerçeklikten kopuk bu alanda, mantık ve estetik benim rehberimdir.
+> “Mimariyi anlamadan çözüm üretmek, binayı temel atmadan inşa etmeye benzer. Temel, her zaman mantık ve sistem bütünlüğüdür.”
 
-| Özellik | Açıklama |
+### 📊 Temel Yetkinlikler
+
+| Alan | Odak Noktası |
 | :--- | :--- |
-| 🧑‍💻 **Rol** | Frontend ağırlıklı **Sistem Tinkeri** (System Tinkerer) |
-| 🌃 **Ritim** | Gece çalışan, gündüz **debug modunda** gezen |
-| ✨ **Estetik** | Minimal tasarım ve **Karanlık Arayüz (Dark Aesthetic)** |
-| 🔗 **Köken** | **C / C++ / Arduino** tabanlı mantık ve sistem bilgisi |
+| **Ön Uç (Frontend)** | Yüksek performans, erişilebilirlik ve ölçeklenebilir arayüz mimarileri. |
+| **Sistem Düşüncesi** | Düşük seviyeli diller (C/C++) ile elde edilen güçlü mantık ve kaynak yönetimi. |
+| **Tasarım Felsefesi** | Minimalizm, netlik ve işlevselliği ön planda tutan yetişkin estetiği. |
+| **Çalışma Prensibi** | Sonuç odaklı, esnek ve zorlu teknik sorunlara çözüm getirmeye adanmış yapı. |
 
 ---
 
-## 💾 DİL & TEKNOLOJİ YÜKÜ
+## 🛠️ TEKNOLOJİ KATMANLARI
 
-En çok kullandığım ve en güçlü olduğum araçlar ile sistem ve düşük seviye tutkularımı birleştiren yelpazem.
+Uzmanlık yelpazem, en hızlı Front-End çerçevelerinden, sistem çekirdeğine inen düşük seviyeli mantık dillerine kadar uzanır.
 
-### 🌐 Frontend & Uygulama Geliştirme
+### I. WEB VE UYGULAMA MİMARİSİ
+Yüksek hızlı ve bakım kolaylığı sunan modern uygulamalar için tercih ettiğim ana araç seti.
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs" alt="Frontend ve Uygulama Geliştirme Teknolojileri" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css" alt="Web ve Uygulama Geliştirme Teknolojileri" />
 </p>
 
-### 💻 Sistem, Düşük Seviye & Veritabanı
+### II. SİSTEM VE DERİN TEKNOLOJİLER
+Verimlilik ve donanım kontrolünün kritik olduğu projelerdeki temel dayanak.
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,linux,git,mysql" alt="Sistem, C/C++ ve Veritabanı Teknolojileri" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,linux,mysql" alt="Sistem ve Düşük Seviyeli Teknolojiler" />
 </p>
 
-### ☁️ Bulut & Altyapı
+### III. ALTYAPI VE DEPLOYMENT
+Uygulamaların hayata geçirildiği, yönetildiği ve ölçeklendiği bulut ve versiyon kontrol sistemleri.
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp" alt="Bulut ve Altyapı Teknolojileri" />
+    <img src="https://skillicons.dev/icons?i=git,aws,gcp" alt="Altyapı, Bulut ve Versiyon Kontrolü" />
 </p>
 
 ---
 
-## 🟩 TERMİNAL BAŞLANGIÇ MESAJI
+## 📂 İLETİŞİM VE PORTFOLYO
 
-Başlangıç Banner'ınızı ````markdown` blockquote` içinde tutarak, hem görsel olarak ayırdım hem de metin bloğunu vurguladım.
-
-> ```perl
-> #!/usr/bin/perl
-> print "\e[92m";
-> print "  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n";
-> print "      Layouse — Neon-Coded Identity\n";
-> print "      Hacker Mindset // Dark Aesthetic\n";
-> print "      System Explorer // Logic Driven\n";
-> print "  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n";
-> print "\e[0m";
-> ```
-
----
-
-## 📡 BAĞLANTILAR
+Profesyonel iletişimin ve erişilebilirliğin önemine inanıyorum. Aşağıdaki kanallar üzerinden bana ulaşabilir veya çalışmalarıma göz atabilirsiniz:
 
 <p align="center">
-    <a href="#"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Bağlantısı" /></a>
-    <a href="#"><img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)" alt="Twitter Bağlantısı" /></a>
-    <a href="#"><img src="[https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)" alt="CodePen Bağlantısı" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bağlantısı" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta Bağlantısı" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profili" /></a>
 </p>
