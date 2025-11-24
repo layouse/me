@@ -12,7 +12,7 @@
 
 Ben **Layouse**. Teknolojinin mimarî derinliğinde uzmanlaşmış, sadece çalışan değil, aynı zamanda **ölçeklenebilir, estetik ve sürdürülebilir** sistemler inşa eden bir geliştiriciyim. Kodun her satırında, **yüksek işlevsellik** ve **minimalist zarafet** arıyorum.
 
-> **STATEMENT:** "Teknolojinin gücü, karmaşıklığı basitlikle çözmekte yatar."
+> "Teknolojinin gücü, karmaşıklığı basitlikle çözmekte yatar."
 
 ### ✅ PROFİL ÖZETİ
 
