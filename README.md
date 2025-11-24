@@ -19,7 +19,7 @@ gerçeklikten kopuk bir **kod işçisi**, bir **terminal bağımlısı**.
 
 ## ⚡ **Profil Özeti**
 - 🌐 Frontend ağırlıklı, ama sistem tarafına da bulaşan  
-- 🧩 Minimal tasarım + hacker estetiği takıntılı  
+- 🧩 Minimal tasarım 
 - 🔥 C / C++ / Arduino kökenli  
 - 🌑 Gece çalışan, gündüz debug modunda gezen  
 
@@ -27,7 +27,7 @@ gerçeklikten kopuk bir **kod işçisi**, bir **terminal bağımlısı**.
 
 ## 💽 **Diller & Araçlar**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,git,linux,arduino,c,cpp,mysql,aws,gcp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,git,linux,arduino,c,cpp,mysql,aws,gcp&perline=8" />
 </p>
 
 ---
