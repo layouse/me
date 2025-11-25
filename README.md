@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1E2125&center=true&vCenter=true&lines=LAYOUSE;System+Integration+Expert;Architectural+Depth+%26+High+Performance;Excellence+in+Code+and+Design" style="filter: invert(1);" alt="Layouse" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E2125&center=true&vCenter=true&lines=LAYOUSE;System+Integration+Expert;Architectural+Depth+%26+High+Performance;Excellence+in+Code+and+Design;TÜRKİYE+CUMHURİYETİ;MUSTAFA+KEMAL+ATATÜRK" style="filter: invert(1);" alt="Layouse" />
 </div>
 
 <div align="center">
