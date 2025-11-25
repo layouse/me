@@ -7,8 +7,7 @@
 </div>
 
 ---
-
-## 🔮 STRATEJİK İMZA
+BEN KİMİM????
 
 Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış, sadece çalışan değil, aynı zamanda **ölçeklenebilir, estetik ve sürdürülebilir** sistemler inşa eden bir geliştiriciyim.Kodun her satırında, **yüksek işlevsellik** ve **minimalistliğin zarafetini** arıyorum.
 
@@ -29,8 +28,7 @@ Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış,
     <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,arduino,linux" alt="Backend ve Sistem Teknolojileri" />
     <img src="https://skillicons.dev/icons?i=git,aws,gcp" alt="DevOps ve Bulut Teknolojileri" />
 </p>
----
-## 🔗BAĞLANTILARIM 
+--- 
 <p align="center">
     <a href="https://tr.linkedin.com/in/eray-akif-%C3%A7abc%C4%B1-4b2980256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bağlantısı" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profili" /></a>
