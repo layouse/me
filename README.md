@@ -29,17 +29,12 @@ Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış,
 
 Kullandığım araçlar, stratejik olarak performans ve uzun ömürlülük düşünülerek seçilmiştir.
 
-### 🌐 FRONT-END & İNTERFACE
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Frontend Teknolojileri" />
 </p>
-
-### 💻 BACK-END & SİSTEM MİMARİSİ
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,arduino,linux" alt="Backend ve Sistem Teknolojileri" />
 </p>
-
-### ☁️ DEVOPS & BULUT
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,aws,gcp" alt="DevOps ve Bulut Teknolojileri" />
 </p>
