@@ -18,9 +18,9 @@ Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış,
 | 👑 **Uzmanlık** | Full-Stack Mentörlüğü | Sistem Bütünlüğü • Mimarî Tasarım |
 | 💡 **Felsefe** | Low-Level Mantık (C/C++) | Performans • Kaynak Yönetimi |
 | 💼 **Çıktı** | Kullanıcı Odaklı Minimalizm | Kurumsal Seviye QC |
-| 🌑 **Estetik** | Karanlık Tema & Temiz Çizgiler | Premium Arayüz Deneyimi |
+| 🌑 **Estetik** | Karanlık Tema Aşığı | Premium Arayüz Deneyimi |
 | 🧠 **Profil** | Kimya Teknolojisi Mezunu Frontend Dev | Disiplinlerarası Teknik Bakış |
-| ⚙️ **Karakter** | Hızlı, net, sistemci geliştirici | “UI zarif ama altyapı tank gibi olsun.” |
+| ⚙️ **Karakter** | Hızlı, net, sistem geliştirici | “UI zarif ama altyapı tank gibi olsun.” |
 ---
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Frontend Teknolojileri" />
@@ -28,7 +28,8 @@ Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış,
     <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,arduino,linux" alt="Backend ve Sistem Teknolojileri" />
     <img src="https://skillicons.dev/icons?i=git,aws,gcp" alt="DevOps ve Bulut Teknolojileri" />
 </p>
---- 
+
+<br>
 <p align="center">
     <a href="https://tr.linkedin.com/in/eray-akif-%C3%A7abc%C4%B1-4b2980256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bağlantısı" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profili" /></a>
