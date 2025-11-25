@@ -33,7 +33,7 @@ Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış,
 <p align="center">
     <a href="https://tr.linkedin.com/in/eray-akif-%C3%A7abc%C4%B1-4b2980256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Bağlantısı" /></a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profili" /></a>
-    <a href="eac365.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Kişisel Portfolio" /></a>
+    <a href="https://eac365.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Kişisel Portfolio" /></a>
     <a href="https://open.spotify.com/user/gkdcnuaxxhrmkokykmueqrmmw?nd=1&dlsi=0fa7eb42e8894912"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profili" /></a>
     <a href="https://www.youtube.com/@layouse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Kanalı" /></a>
     <a href="https://steamcommunity.com/id/layouse/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profili" /></a>
