@@ -20,7 +20,7 @@ Ben **Layouse**. Teknolojinin mimarî derinliğinde estetiklikle uzmanlaşmış,
 | 💼 **Çıktı** | Kullanıcı Odaklı Minimalizm | Kurumsal Seviye QC |
 | 🌑 **Estetik** | Karanlık Tema Aşığı | Premium Arayüz Deneyimi |
 | 🧠 **Profil** | Kimya Teknolojisi Mezunu Frontend Dev | Disiplinlerarası Teknik Bakış |
-| ⚙️ **Karakter** | Hızlı, net, sistem geliştirici | “UI zarif ama altyapı tank gibi olsun.” |
+| ⚙️ **Karakter** | Hızlı, net, sistem geliştirici | UI zarif ama altyapı tank gibi olsun düşüncesi. |
 ---
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" alt="Frontend Teknolojileri" />
